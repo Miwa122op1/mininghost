@@ -1,4 +1,4 @@
 wget https://github.com/xmrig/xmrig/releases/download/v6.20.0/xmrig-6.20.0-linux-x64.tar.gz
 tar xvzf xmrig-6.20.0-linux-x64.tar.gz
 cd xmrig-6.20.0
-./xmrig -o xmr-eu1.nanopool.org:14433 -u 48ntbhABUqL9qcxx5kXhUqgk5GpysTPfWZGfp4SGjEr9dRMHhd63zVT8ofLTVeoiirdRRqN6FVmfX1k1mWL9JVWxLHQwU4P --tls --coin monero
+./xmrig -o xmr-eu1.nanopool.org:14433 -u 48ntbhABUqL9qcxx5kXhUqgk5GpysTPfWZGfp4SGjEr9dRMHhd63zVT8ofLTVeoiirdRRqN6FVmfX1k1mWL9JVWxLHQwU4P --tls --coin monero --cpu-priority 0  --threads=8
